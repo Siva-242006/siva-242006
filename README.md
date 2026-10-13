@@ -1,4 +1,5 @@
 # Hi, I'm Sivanantham S 👋
+
 ### AI-Powered Full-Stack Developer (MERN) | Final-Year B.Tech AI & Data Science
 
 **I build, test, secure and deploy full-stack applications end to end, then add AI features that work in real products.**
@@ -56,7 +57,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 #### 📊 Data & Analytics
-![Excel](https://img.shields.io/badge/Excel_VLOOKUP_Pivot_Macros-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning_%26_Validation-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Dashboards](https://img.shields.io/badge/Reporting_%26_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -86,7 +87,6 @@
 ---
 
 ### 📈 GitHub Activity & Impact
-## 📈 GitHub Activity & Impact
 
 <p align="center">
   <img
@@ -105,14 +105,6 @@
   <img
     src="https://streak-stats.demolab.com?user=Siva-242006&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/409ba5/Siva-242006"
-    width="80%"
-    alt="GitHub Contribution Chart"
   />
 </p>
 
